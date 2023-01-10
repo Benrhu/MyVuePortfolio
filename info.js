@@ -54,7 +54,7 @@ let info = {
       name: "Grouzy Website",
       pictures: [
         {
-          img: require("./src/assets/portfolio/diary/1.png")
+          img: require("./src/assets/grouzy.jpg")
         }
       ],
       technologies: ["HTML", "CSS", "JavaScript"],
